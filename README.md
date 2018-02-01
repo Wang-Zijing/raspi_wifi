@@ -1,6 +1,9 @@
 依次复制下面的各行命令，然后右键粘贴到树莓派的终端窗口，并执行命令：
+
 1.git clone https://github.com/Wang-Zijing/raspi_wifi
+
 2.cd raspi_wifi
+
 3.sudo make install
 4.sudo apt-get undate
 5.sudo apt-get install util-linux procps hostapd iproute2 iw haveged dnsmasq
