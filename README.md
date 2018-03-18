@@ -7,6 +7,7 @@
 3.sudo make install
 
 开一个新的终端窗口，并执行下面的命令
+
 4.sudo apt-get update
 
 5.sudo apt-get install util-linux procps hostapd iproute2 iw haveged dnsmasq
