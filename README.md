@@ -6,7 +6,7 @@
 
 3.sudo make install
 
-4.sudo apt-get undate
+4.sudo apt-get update
 
 5.sudo apt-get install util-linux procps hostapd iproute2 iw haveged dnsmasq
 
