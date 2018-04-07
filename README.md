@@ -26,7 +26,7 @@
    
    2.cd raspi_wifi
    
-   3.sudo make install
+    3.sudo make install
    
    6.systemctl enable create_ap
 
