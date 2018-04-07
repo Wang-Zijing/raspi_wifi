@@ -20,7 +20,9 @@
 
 9.在电脑上用vnc或putty连接树莓派的ip地址:10.0.0.1。
 
-10.修改wifi名称和密码的方法：找到raspi_wifi文件夹，打开create_ap.conf，找到MyAccessPoint和12345678，然后进行修改。
+10.修改wifi名称的方法：找到raspi_wifi文件夹，打开create_ap.conf，找到MyAccessPoint，然后进行修改。
+
+   （提醒：修改密码可能导致wifi无法生效）
 
    修改完毕后务必再运行第2、3、6行命令：
    
