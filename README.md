@@ -24,11 +24,11 @@
 
    修改完毕后务必再运行第2、3、6行命令：
    
-   2. cd raspi_wifi
+   2.cd raspi_wifi
    
-   3. sudo make install
+   3.sudo make install
    
-   6. systemctl enable create_ap
+   6.systemctl enable create_ap
 
 （如果要让树莓派连接周围新的wifi网络：
 
