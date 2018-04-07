@@ -1,3 +1,4 @@
+
 依次复制下面的各行命令，然后右键粘贴到树莓派的终端窗口，并执行命令：
 
 1.git clone https://github.com/Wang-Zijing/raspi_wifi
@@ -19,6 +20,8 @@
 8.电脑连接树莓派的wifi（密码：12345678）
 
 9.在电脑上用vnc或putty连接树莓派的ip地址:10.0.0.1。
+10.修改wifi名称和密码的方法：找到raspi_wifi文件夹，打开create_ap.conf，找到MyAccessPoint和12345678，然后进行修改。
+   修改完毕后务必再运行第6行命令：sudo systemctl enable create_ap
 
 （如果要让树莓派连接周围新的wifi网络：
 
